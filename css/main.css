@@ -4,6 +4,7 @@ h1 {
   font-size: 36px;
   text-align: center;
 }
+
 p {
   color: #333333;
   font-style: italic;
@@ -11,6 +12,7 @@ p {
   line-height: 1.6;
   text-align: center;
 }
+
 .place {
   background-color: antiquewhite;
   padding: 20px;
